@@ -2,9 +2,9 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   text-align: center;
-  background: url('bacgraundsite.avif') no-repeat center center fixed;
+  background: url('fundofuturista.avif') no-repeat center center fixed;
   background-size: cover;
-  color: yellow
+  color: white
 }
 
 header {
@@ -12,7 +12,8 @@ header {
 }
 
 .logo {
-  width: 180px;
+  width: 300px;
+  height: auto;
   margin-bottom: 10px;
 }
 
@@ -21,7 +22,7 @@ header {
 }
 
 h2 {
-  color: rgb(10, 10, 10);
+  color: rgb(229, 233, 7);
 }
 
 ul {
@@ -37,7 +38,7 @@ li {
   display: inline-block;
   padding: 12px 20px;
   background: rgb(10, 219, 104);
-  color: black;
+  color: rgb(238, 241, 7);
   text-decoration: none;
   font-weight: bold;
   border-radius: 5px;
